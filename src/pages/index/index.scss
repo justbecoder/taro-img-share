@@ -1,0 +1,21 @@
+.index {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.canvas-wrap {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.3);
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  .btn-save {
+    margin-top: 40rpx;
+  }
+}
