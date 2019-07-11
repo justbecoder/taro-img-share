@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./dist",
+  "projectname": "taro-img-share",
+  "description": "使用Taro框架开发微信小程序分享图片功能",
+  "appid": "wxee9f2f6dd404fc91",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
